@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "automation/star-history/35052135329-1",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "automation/star-history/35052135329-1": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "automation/star-history/35052135329-1",
+    "origin"
+  ]
+}
